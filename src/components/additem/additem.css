@@ -1,0 +1,19 @@
+.Additem {
+    text-align: center; /* Center the input and icons */
+  }
+  
+  .add-control {
+    display: inline-block; /* Display inline for horizontal alignment */
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center; /* Center the items vertically */
+  }
+.add-btn{
+    margin-top:0.8em;
+    color: rgba(1, 38, 35, 0.661);
+}
+  
+  /* Add any additional styling for form-control, add-btn, etc. as needed */
+  
